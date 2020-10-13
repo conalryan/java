@@ -19,7 +19,7 @@
     <properties>
         <jdk.version>1.8</jdk.version>
         <commons-lang3.version>3.0</commons-lang3.version>
-        <junit.verion>4.12</junit.verion>
+        <junit.verion>4.13.1</junit.verion>
         <maven-compiler-plugin.verion>3.6.2</maven-compiler-plugin.verion>
         <maven-jar-plugin.verion>3.2.0</maven-jar-plugin.verion>
         <mavens-source-plugin>3.0.1</mavens-source-plugin>
